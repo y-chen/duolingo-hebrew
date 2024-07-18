@@ -44,6 +44,8 @@ The topics section covers phrases and vocabulary used in everyday conversation, 
 - [Everyday Conversation](topics/everyday_conversation.md)
 - [People](topics/people.md)
 - [Possession](topics/possession.md)
+- [This is](topics/this_is.md)
+- [Pronouns](topics/pronouns.md)
 
 ## How to Use
 
