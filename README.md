@@ -47,6 +47,10 @@ The topics section covers phrases and vocabulary used in everyday conversation, 
 - [This is](topics/this_is.md)
 - [Pronouns](topics/pronouns.md)
 - [Objects](topics/objects.md)
+- [Animals](topics/animals.md)
+- [Food and Drinks](topics/food_and_drinks.md)
+- [Days and Times](topics/days_and_time.md)
+- [Numbers and Quantities](topics/numbers_and_quantities.md)
 
 ## How to Use
 
