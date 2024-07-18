@@ -7,6 +7,7 @@ Welcome to the Duolingo Hebrew repository! This repository contains a collection
 - [Verbs](#verbs)
 - [Adjectives](#adjectives)
 - [Nouns](#nouns)
+- [Topics](#topics)
 
 ## Verbs
 
@@ -35,6 +36,12 @@ The adjectives are provided with their different forms (masculine, feminine, sin
 The nouns are categorized into different groups like family, food, animals, objects, and more. Each noun is provided with an example sentence.
 
 - [Nouns](nouns.md)
+
+## Topics
+
+The topics section covers phrases and vocabulary used in everyday conversation, greetings, politeness, days and times, miscellaneous phrases, and common questions and responses.
+
+- [Everyday Conversation](topics/everyday_conversation.md)
 
 ## How to Use
 
