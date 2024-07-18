@@ -42,6 +42,7 @@ The nouns are categorized into different groups like family, food, animals, obje
 The topics section covers phrases and vocabulary used in everyday conversation, greetings, politeness, days and times, miscellaneous phrases, and common questions and responses.
 
 - [Everyday Conversation](topics/everyday_conversation.md)
+- [People](topics/people.md)
 
 ## How to Use
 
